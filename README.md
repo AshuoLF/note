@@ -1,2 +1,2 @@
 # note
-note就是简单的记事本
+note就是简单的记事本yes!
